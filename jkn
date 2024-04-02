@@ -1,5 +1,5 @@
 node{
-stage{
-sh echo "harsh"
+stage('harsh'){
+sh 'echo harsh'
 }
 }
